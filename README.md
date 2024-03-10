@@ -1,4 +1,4 @@
-#Utilizando Python para Análisis: Beautiful Soup
+# Utilizando Python para Análisis: Beautiful Soup
 
 Beautiful Soup representa una biblioteca en Python destinada al web scraping.
 Su propósito principal es la extracción de datos de documentos HTML y XML.
